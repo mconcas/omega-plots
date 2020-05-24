@@ -1,0 +1,7 @@
+.vscode
+*.pcm
+*.d
+*.so
+*.png
+*.pdf
+*.root
